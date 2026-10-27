@@ -25,7 +25,6 @@ port = 54324
 
 [auth]
 enabled = true
-enable_signup = true
 enable_anonymous_sign_ins = false
 site_url = "http://localhost:5173"
 additional_redirect_urls = ["http://localhost:5173/**"]
